@@ -9,7 +9,7 @@ laprak dan code source
 |----|-----------|--------------|-------------------------------------------------|---------|---------------------|
 | 01  |  | 01           | Pengenalan Mobile Programming dan Setup Lingkungan |  [Laprak]()   |   [Github]()    |  
 | 01 | | 01 | Widget Row dan Column |  [Laprak]()   |   [Github]()    |  
-| 02 |  | 02 | Pengaturan Layout Row dan Column di Flutter |  [Laprak])   |   [Github]()    |  
+| 02 |  | 02 | Pengaturan Layout Row dan Column di Flutter |  [Laprak]()   |   [Github]()    |  
 | 02 |  | 02 | Widget Flexible dan Expanded |  [Laprak]()   |   [Github]()    |  
 | 03 |  | 03 | Widget SizedBox, Spacer, dan Card |  [Laprak]()   |   [Github]()    |  
 | 03 |  | 03 | Widget GridView, ListView, GridView.builder, dan ListView.builder |  [Laprak]()   |   [Github]()    |  
