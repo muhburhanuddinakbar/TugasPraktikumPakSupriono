@@ -8,7 +8,7 @@ laprak dan code source
 | NO || Praktikum ke | Topik                                           | Laporan |      Link Github    |
 |----|-----------|--------------|-------------------------------------------------|---------|---------------------|
 | 01  |  | 01           | Pengenalan Mobile Programming dan Setup Lingkungan |  [Laprak]()   |   [Github]()    |  
-| 02 | | 02 | Create first project in flutter |  [Laprak]()   |   [Github](https://github.com/muhburhanuddinakbar/Modul2.git)    |  
+| 02 | | 02 | Create first project in flutter |  [Laprak]()   |   [Github]()    |  
 | 03 |  | 03 | Widget Row dan Column|  [Laprak]()   |   [Github]()    |  
 | 04 |  | 04 |  Interaction and User Input |  [Laprak]()   |   [Github]()    |  
 | 05 |  | 05 | Routing dan Navigasi  |  [Laprak]()   |   [Github]()    |  
