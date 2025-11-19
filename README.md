@@ -12,7 +12,7 @@ laprak dan code source
 | 03 |  | 03 | Widget Row dan Column|  [Laprak](https://drive.google.com/file/d/1Gx2Q2RWb6duekM2W_AfBd9-Iznk-O8eM/view?usp=drive_link)   |   [Github](https://github.com/muhburhanuddinakbar/Modul3.git)    |  
 | 04 |  | 04 |  Interaction and User Input |  [Laprak](https://drive.google.com/file/d/1PrCmtYYVTgZIMgutFxo8Nr3ZKSiGPO8q/view?usp=drive_link)   |   [Github](https://github.com/muhburhanuddinakbar/modul4.git)    |  
 | 05 |  | 05 | Routing dan Navigasi  |  [Laprak](https://drive.google.com/file/d/10SiGCLrfkmDVxJUvCrbRphJzO-RmVNvN/view?usp=drive_link)   |   [Github](https://github.com/muhburhanuddinakbar/Modul-5.git)    |  
-| 06 |  | 06 |  Package and Plugin |  [Laprak]()   |   [Github]()    |  
+| 06 |  | 06 |  Package and Plugin |  [Laprak]()   |   [Github](https://github.com/muhburhanuddinakbar/modul6.git)    |  
 | 07 |  | 07 |  Pengenalan REST API |  [Laprak]()   |   [Github]()    |  
 | 08 |  | 08 |  Create Web Service using MVC (CodeIgniter) |  [Laprak]()   |   [Github]()    |  
 | 09 |  | 09 |  Consuming API  |  [Laprak]()   |   [Github]()    |  
